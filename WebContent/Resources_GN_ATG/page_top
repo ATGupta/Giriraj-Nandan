@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>PROF. GIRIRAJ NANDAN | प्रोफेसर गिरिराज नंदन</title>
+        <link rel="shortcut icon" href="Resources_GN_ATG/title_image"/>
+        <link href="Resources_GN_ATG/styles.css" type="text/css" rel="stylesheet"/>
+    </head>
+    <body >
+        <div id="header">
+        	<table style="width:90%">
+        		<tbody>
+        			<tr>
+        				<td>
+        					<a  title="TTO" href="./">
+                				<img src="Resources_GN_ATG/title_image" id="headerImage" style="height: 153px; width: 132px">
+            				</a>
+            			<td>
+            				<h1 style="text-align: center">
+								PROF. GIRIRAJ NANDAN
+								<br>
+								प्रोफेसर गिरिराज नंदन 
+            				</h1>
+            	</tbody>
+            </table>
+        </div>
+        <div id="nav">
+            <ul>
+                <li>
+                    <a href="./">Home</a>
+                </li>
+                <li>
+               		<a href="?un=Home&ch=contents">Contents</a>
+				</li>
+                <li>
+					<a href="?un=Home&ch=contact">Contact Us</a>
+                </li>
+                <li>
+                	<a href="?un=Home&ch=acknowledgement">Acknowledgements</a>
+                </li>
+            </ul>
+        </div>
+        <p></p>
